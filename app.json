@@ -1,7 +1,7 @@
 {
-    "name": "T",
-    "description": "T",
-    "keywords": ["T"],
+    "name": "lide",
+    "description": "lide",
+    "keywords": ["lide"],
     "env": {
         "AUUID": {
             "description": "UUID",
